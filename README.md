@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MissMari0987
-- 👀 I’m interested in ... Web Debelopment
+- 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Responsive Web Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
